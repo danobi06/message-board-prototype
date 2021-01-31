@@ -1,0 +1,5 @@
+{
+    "channels": "http://localhost:3001/channels",
+    "messages": "http://localhost:3001/messages/__CHANNEL__",
+    "submit": "http://localhost:3001/__CHANNEL__"
+}
